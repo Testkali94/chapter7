@@ -1,7 +1,6 @@
- <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE replace [<! ENTITY xxe "Doe">]>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE replace [<! ENTITY xxe "Doe"> ]>
 <rss version="2.0">
-
 <channel>
   <title>W3Schools Home Page</title>
   <link>https://www.w3schools.com</link>
